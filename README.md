@@ -1,4 +1,4 @@
-# admin_car
+# car_client
 
 ## Project setup
 ```
